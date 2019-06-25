@@ -1,3 +1,4 @@
 rootProject.name = 'java9-study'
 include 'com.jason.study'
+include ' com.jason.hard'
 
